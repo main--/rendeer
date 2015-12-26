@@ -1,0 +1,7 @@
+[package]
+name = "rendeer"
+version = "0.1.0"
+authors = ["main--"]
+
+[dependencies]
+cgmath = "0.7.0"
